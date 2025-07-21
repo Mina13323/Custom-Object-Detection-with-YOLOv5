@@ -106,3 +106,7 @@ Make sure annotations are accurate and normalized.
 Balance dataset (equal representation per class if possible).
 
 Use early stopping or model checkpoint to avoid overfitting.
+
+# Detection
+
+![Detection](download.png)
